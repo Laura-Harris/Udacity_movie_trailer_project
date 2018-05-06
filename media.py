@@ -12,7 +12,7 @@ class Video():
         self.title = title
         self.poster_image_url = poster_image_url
 
-    """Reusable method to support showing of videos in child classes"""
+    """Opens web browser to show YouTube movie trailer"""
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
 
