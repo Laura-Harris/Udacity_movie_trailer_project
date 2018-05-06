@@ -14,7 +14,7 @@ This project shows a list of movies that each contain a link to view its trailer
 * Clone this repository
 * In a terminal window navigate to the project directory
 * Run the code `python entertainment_center.py`
-* The `fresh_tomatoes.html` should generate and open in your web browser
+* Fresh Tomatoes will open in your web browser and display the movie list
 
 ### Copyright and License
 
